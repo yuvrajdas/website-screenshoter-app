@@ -1,0 +1,13 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.loading-data{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ss-img{
+  width: 800px;
+  height: auto;
+}
